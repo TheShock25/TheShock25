@@ -1,4 +1,3 @@
-```md
 # Hugo Ayala Alatriste
 
 **Java Full Stack Developer | Data Analysis | Backend Development | NLP**
@@ -302,4 +301,3 @@ Proyecto académico basado en matrices TF-IDF, similitud coseno y métricas de e
 **Correo:** hugoalatriste06@gmail.com  
 **Correo académico:** hugo.ayalaa@alumno.buap.mx  
 **GitHub:** [github.com/TheShock25](https://github.com/TheShock25)
-```
