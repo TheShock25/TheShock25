@@ -117,21 +117,6 @@ The project involved organizing and improving an initial codebase where HTML, CS
 
 ---
 
-### Academic Registration System
-
-Full stack academic registration system for managing administrators, students and teachers through web forms and a REST API.
-
-**Main contributions:**
-
-- Built frontend forms with Angular and Angular Material.
-- Designed backend endpoints with Django REST Framework.
-- Integrated the application with MySQL.
-- Worked on user registration workflows and validation structures.
-
-**Technologies:** Angular, TypeScript, Django REST Framework, MySQL, Postman.
-
----
-
 ### Information Retrieval and Text Processing
 
 Academic project focused on document retrieval, TF-IDF vectorization, cosine similarity and evaluation metrics.
@@ -154,16 +139,6 @@ Academic project focused on document retrieval, TF-IDF vectorization, cosine sim
 - A personal project for event hall workers, focused on job discovery, reputation, expected tips, comments, event statistics and better communication between workers and employers.
 
 ---
-
-## Education
-
-**Benemérita Universidad Autónoma de Puebla**  
-Computer Science  
-Focus: Data Analysis and applied software development  
-Final stage of the degree
-
----
-
 ## Professional Focus
 
 I am interested in software roles where I can solve practical problems through backend development, Java systems, web applications or data analysis.
@@ -268,14 +243,6 @@ Implementación web del juego Continental, con enfoque en lógica competitiva, m
 - Mejora de interfaz para escritorio y dispositivos móviles.
 
 **Tecnologías:** HTML, CSS, JavaScript, Node.js.
-
----
-
-### Sistema de Registro Académico
-
-Sistema full stack para registro y administración de alumnos, maestros y administradores mediante formularios web y API REST.
-
-**Tecnologías:** Angular, TypeScript, Django REST Framework, MySQL, Postman.
 
 ---
 
