@@ -175,9 +175,6 @@ I usually approach software as an experimental process: testing ideas, refining 
 ---
 
 ## GitHub Stats
-
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheShock25&show_icons=true&theme=transparent&hide_border=true)
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheShock25&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShock25&layout=donut&theme=github_dark&hide_border=true&langs_count=6" />
