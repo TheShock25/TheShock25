@@ -5,25 +5,20 @@
   <a href="https://github.com/TheShock25">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;An%C3%A1lisis+de+Datos+%26+PLN;Ciencias+de+la+Computaci%C3%B3n+%40+BUAP;Construyendo+soluciones+orientadas+a+datos" alt="Typing SVG" />
   </a>
-
 <br><br>
-
-  <a href="https://www.linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/hugo-ayala-alatriste-9a1673217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="hugoalatriste06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/TheShock25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
 <br><br>
-
   <img src="https://komarev.com/ghpvc/?username=TheShock25&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
 
 ---
