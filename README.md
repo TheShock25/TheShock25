@@ -25,13 +25,7 @@
 
 ## Sobre mí
 
-Soy **graduado de Ciencias de la Computación por la Benemérita Universidad Autónoma de Puebla (BUAP)** y actualmente me encuentro en proceso de titulación por tesis.
-
-Mi perfil se centra principalmente en el **desarrollo backend con Java, análisis de datos y procesamiento de lenguaje natural (PLN)**. Me interesa trabajar con información desde su obtención y procesamiento hasta la construcción de aplicaciones que permitan utilizarla de forma práctica.
-
-Durante mi formación he desarrollado proyectos que combinan **desarrollo de software, bases de datos, análisis de información y procesamiento de texto**, buscando resolver problemas concretos y experimentar con diferentes tecnologías para encontrar soluciones funcionales.
-
-Actualmente busco una primera oportunidad profesional donde pueda seguir desarrollando experiencia en **backend, desarrollo web, análisis de datos o tecnologías relacionadas con PLN**.
+Desarrollador de software especializado en backend, desarrollo Full Stack y análisis de datos, con experiencia en la creación de aplicaciones que automatizan procesos, optimizan tareas y transforman información en soluciones funcionales. He desarrollado software de escritorio para la Facultad de Ciencias Químicas de la BUAP, herramientas de procesamiento de lenguaje natural para el análisis de sentimientos y aplicaciones web con Java, Spring Boot, Angular, Django y tecnologías modernas. Actualmente participo en el desarrollo de un modelo predictivo aplicado al análisis de cosechas de cebada en el reto agropecuario de Hidalgo, Tlaxcala y Puebla. Mi enfoque combina programación, análisis y resolución de problemas para construir soluciones prácticas, desde la automatización de procesos hasta el modelado de datos.
 
 ---
 
